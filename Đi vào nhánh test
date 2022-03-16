@@ -1,0 +1,2 @@
+Điều này cho phép ta chỉ thực hiện các phần của một tập tin được sửa đổi, cập nhật các thay đổi trong tập tin khi cần.
+Git cũng có thể không sử dụng tính năng này khi ta không muốn – chỉ cần thêm ‘-a’ vào lệnh commit để thêm tất cả thay đổi của tất cả các tập tin vào “staging area”.
